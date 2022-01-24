@@ -48,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       keyboardType: TextInputType.number,
                       decoration: const InputDecoration(
                           border: InputBorder.none,
-                          hintText: "Height (m)",
+                          hintText: "Height ()",
                           hintStyle: TextStyle(
                             fontSize: 42,
                             fontWeight: FontWeight.w300,
